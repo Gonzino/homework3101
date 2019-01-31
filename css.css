@@ -1,0 +1,46 @@
+
+header{
+    display: inline-block;
+    background-image: url("https://source.unsplash.com/user/erondu");
+    background-size: cover;
+    border: none;
+    margin: 0;
+    background-size: cover;
+    width: 100%;
+    padding: 50px 20px 100px 20px;
+}
+.logo {
+    float: left;
+    position: fixed;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(216, 217, 230);
+    right: 0;
+    left: 0;
+    padding: 3px 3px;
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 150px;
+}
+.nav1 {
+    float: right;
+    display: inline-block;
+}
+li {
+    display: inline;
+    margin-right: 20px;
+  }
+.wdad{
+    width: 30%;
+    float: right;
+    align-content: center;
+    text-align: initial;
+    margin-right: 30px;
+}
+.about{
+    padding: 60px 100px 60px 100px;
+    border: 30px 100px 30px 100px;
+    align-content: center;
+    text-align: center;
+    background-color: beige;
+    display: block;
+}
